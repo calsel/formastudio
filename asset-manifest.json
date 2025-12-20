@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/formastudio/static/css/main.7aa10b26.css",
-    "main.js": "/formastudio/static/js/main.398f1b94.js",
+    "main.css": "/formastudio/static/css/main.262ca6e6.css",
+    "main.js": "/formastudio/static/js/main.a128be2b.js",
+    "static/media/bgsteps.jpg": "/formastudio/static/media/bgsteps.b4e676eee74f190e523e.jpg",
     "static/media/img2.jpg": "/formastudio/static/media/img2.50751ff9fe2469a111e9.jpg",
     "static/media/img3.jpg": "/formastudio/static/media/img3.43566c4b4d1b24fdfc6d.jpg",
     "static/media/img1.jpg": "/formastudio/static/media/img1.ab47346846b4358376b2.jpg",
@@ -12,11 +13,11 @@
     "index.html": "/formastudio/index.html",
     "static/media/arrow-left.svg": "/formastudio/static/media/arrow-left.752cfd1e00ce2131331668ee11c8a091.svg",
     "static/media/arrow-right.svg": "/formastudio/static/media/arrow-right.916f930841630df6c6f3b3c8b8581d48.svg",
-    "main.7aa10b26.css.map": "/formastudio/static/css/main.7aa10b26.css.map",
-    "main.398f1b94.js.map": "/formastudio/static/js/main.398f1b94.js.map"
+    "main.262ca6e6.css.map": "/formastudio/static/css/main.262ca6e6.css.map",
+    "main.a128be2b.js.map": "/formastudio/static/js/main.a128be2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa10b26.css",
-    "static/js/main.398f1b94.js"
+    "static/css/main.262ca6e6.css",
+    "static/js/main.a128be2b.js"
   ]
 }
