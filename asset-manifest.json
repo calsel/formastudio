@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/formastudio/static/css/main.cba1bd78.css",
-    "main.js": "/formastudio/static/js/main.41ccff23.js",
+    "main.css": "/formastudio/static/css/main.c7d8d5f1.css",
+    "main.js": "/formastudio/static/js/main.c6bfba01.js",
     "static/media/bgsteps.jpg": "/formastudio/static/media/bgsteps.b4e676eee74f190e523e.jpg",
+    "static/media/reqbg.jpg": "/formastudio/static/media/reqbg.59ef5e8eca190f3cff04.jpg",
     "static/media/img2.jpg": "/formastudio/static/media/img2.50751ff9fe2469a111e9.jpg",
     "static/media/img3.jpg": "/formastudio/static/media/img3.43566c4b4d1b24fdfc6d.jpg",
     "static/media/catalog.jpg": "/formastudio/static/media/catalog.502fbf9d4154f419f6d1.jpg",
@@ -18,15 +19,23 @@
     "static/media/bg.webp": "/formastudio/static/media/bg.3e75f2eb29e354a360b8.webp",
     "static/media/3.jpg": "/formastudio/static/media/3.1eb90efb2f6a60101366.jpg",
     "static/media/logo.svg": "/formastudio/static/media/logo.8ea83449321eeea3fa5774478a765061.svg",
+    "static/media/footer_logo.svg": "/formastudio/static/media/footer_logo.8ebc7a0bd985677f87e44c73b65ced48.svg",
     "static/media/phone.svg": "/formastudio/static/media/phone.84569aa5e5be8067e54499a8db5dc48c.svg",
+    "static/media/pint.svg": "/formastudio/static/media/pint.cbf807d169d9ddfdd8ef1ef4ebe372d5.svg",
+    "static/media/instagram.svg": "/formastudio/static/media/instagram.bae668fef2977972852238db570b1565.svg",
+    "static/media/email.svg": "/formastudio/static/media/email.2912bf10fe4e9f194c937ff2bd6025ec.svg",
+    "static/media/tg.svg": "/formastudio/static/media/tg.60b0399148cc7e1e727efd03b20d6de8.svg",
+    "static/media/copy.svg": "/formastudio/static/media/copy.6dac1b8e0447dc3524ffa2ba101eff1e.svg",
+    "static/media/map.svg": "/formastudio/static/media/map.f9fc90b8bbcd69ff392d85f299aa755e.svg",
     "index.html": "/formastudio/index.html",
     "static/media/arrow-left.svg": "/formastudio/static/media/arrow-left.752cfd1e00ce2131331668ee11c8a091.svg",
     "static/media/arrow-right.svg": "/formastudio/static/media/arrow-right.916f930841630df6c6f3b3c8b8581d48.svg",
-    "main.cba1bd78.css.map": "/formastudio/static/css/main.cba1bd78.css.map",
-    "main.41ccff23.js.map": "/formastudio/static/js/main.41ccff23.js.map"
+    "static/media/Facebook_white.svg": "/formastudio/static/media/Facebook_white.3368baf55f36136b766e3ba562a38bae.svg",
+    "main.c7d8d5f1.css.map": "/formastudio/static/css/main.c7d8d5f1.css.map",
+    "main.c6bfba01.js.map": "/formastudio/static/js/main.c6bfba01.js.map"
   },
   "entrypoints": [
-    "static/css/main.cba1bd78.css",
-    "static/js/main.41ccff23.js"
+    "static/css/main.c7d8d5f1.css",
+    "static/js/main.c6bfba01.js"
   ]
 }
