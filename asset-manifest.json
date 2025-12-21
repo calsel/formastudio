@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/formastudio/static/css/main.c7d8d5f1.css",
+    "main.css": "/formastudio/static/css/main.2a30a64b.css",
     "main.js": "/formastudio/static/js/main.c6bfba01.js",
     "static/media/bgsteps.jpg": "/formastudio/static/media/bgsteps.b4e676eee74f190e523e.jpg",
     "static/media/reqbg.jpg": "/formastudio/static/media/reqbg.59ef5e8eca190f3cff04.jpg",
@@ -31,11 +31,11 @@
     "static/media/arrow-left.svg": "/formastudio/static/media/arrow-left.752cfd1e00ce2131331668ee11c8a091.svg",
     "static/media/arrow-right.svg": "/formastudio/static/media/arrow-right.916f930841630df6c6f3b3c8b8581d48.svg",
     "static/media/Facebook_white.svg": "/formastudio/static/media/Facebook_white.3368baf55f36136b766e3ba562a38bae.svg",
-    "main.c7d8d5f1.css.map": "/formastudio/static/css/main.c7d8d5f1.css.map",
+    "main.2a30a64b.css.map": "/formastudio/static/css/main.2a30a64b.css.map",
     "main.c6bfba01.js.map": "/formastudio/static/js/main.c6bfba01.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7d8d5f1.css",
+    "static/css/main.2a30a64b.css",
     "static/js/main.c6bfba01.js"
   ]
 }
